@@ -14,14 +14,14 @@ packages:
 - completed:
     name: monomer
     version: 1.3.0.0
-    git: https://github.com/fjvallarino/monomer
+    git: https://github.com/fjvallarino/monomer.git
     pantry-tree:
-      size: 17242
-      sha256: 701895cac5883f6901bda29932bce0dcf3e98e87fd36900e5dc59826f8dd6e04
-    commit: 5f0bed361f04135d45bf9a71259f74d7a7af69a8
+      size: 17324
+      sha256: 2cfd25ef39056570321d085543b166ac4d757dab89967965975dbe0fd5015f14
+    commit: 1972e8cce35d9b1bb61b679eb6c62d0b50809314
   original:
-    git: https://github.com/fjvallarino/monomer
-    commit: 5f0bed361f04135d45bf9a71259f74d7a7af69a8
+    git: https://github.com/fjvallarino/monomer.git
+    commit: 1972e8cce35d9b1bb61b679eb6c62d0b50809314
 snapshots:
 - completed:
     size: 590102
